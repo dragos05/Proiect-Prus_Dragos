@@ -1,0 +1,29 @@
+#locatii
+3
+1
+Progresul
+1
+2
+Standard 1 5 10 
+Peluza 6 10 5 
+2
+Republica
+2
+Sala 1 10 10
+Balcon 11 14 5
+2
+Central
+2
+Sala 1 5 10
+Balcon 6 10 5
+
+#evenimente
+2
+Fotbal
+1
+22/03/2023
+20:00
+Film
+2
+25/02/2023
+10:30
